@@ -22,7 +22,7 @@
             >
             </v-img>
           <div class='white--text display-2 ma-3'>
-            New Site Launching 13/07/2020
+            New Site Launching 19/07/2020
           </div>
         </v-col>
         </v-row>
